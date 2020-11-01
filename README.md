@@ -25,8 +25,14 @@ Here are some ideas to get you started:
 </p>
 
 # Some Acomplishments:
-
-
+<p>
+  <list>
+    <ol> 🔭 I am Microsoft Learn Student Ambassador (2020 - 2021)</ol>
+    <ol> ✨ I am working as a remote Intern at International Model United Nations </ol>
+    <ol> 👯 I am associated with Developer Student Clubs - Powered by Google as PR - Lead </ol>
+    <ol> ⚡ Former Community Member of Community Leadership Circle of Facebook </ol>
+  </list>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadashiq12&label=Profile%20views&color=0e75b6&style=flat" alt="fahadashiq12" /> </p>
 
