@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there, I am Fahad Ashiq ✨👋
-### I am Computer Science Graduate 🔭 - I am Computer Science Graduate from Government College University, Lahore #Class2020. 
+- I am Computer Science Graduate from Government College University, Lahore #Class2020. 🔭  
