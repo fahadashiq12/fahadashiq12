@@ -1,13 +1,8 @@
-### Hi there 👋
-
 <!--
 **fahadashiq12/fahadashiq12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
-
-WED Domain
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -16,3 +11,5 @@ WED Domain
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there, I am Fahad Ashiq ✨👋
+### I am Computer Science Graduate 🔭 - I am Computer Science Graduate from Government College University, Lahore #Class2020. 
