@@ -16,9 +16,17 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate Software Engineer from Lahore, Pakistan</h3>
 
 # Who Am i? 😄
--🌱 Bachelor’s degree in Computer Sciences from the Government College University, Lahore (GCU).
+<list>
+  <ul>
+-🌱 I have recently done Bachelor’s degree in Computer Sciences from the Government College University, Lahore (GCU).
 -⚡️ A Web Developer with a good grip on basic front-end development tools including HTML5, CSS3, Bootstrap and JavaScript along with grip on backend framework .NET , MySQL, and OOP Concepts.
--🚀 Technology Enthusiastic
+-🚀 Technology Enthusiastic.
+</ul>
+</list>
+
+# Some Acomplishments:
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahadashiq12&label=Profile%20views&color=0e75b6&style=flat" alt="fahadashiq12" /> </p>
 
