@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Fahad Ashiq</h1>
 <h3 align="center">A passionate Software Engineer from Lahore, Pakistan</h3>
 
-# Who Am i? 😄
+# Who am I? 😄
 <p>
   <list>
 <ul> 🌱 I have recently done Bachelor’s degree in Computer Sciences from the Government College University, Lahore (GCU). </ul>
