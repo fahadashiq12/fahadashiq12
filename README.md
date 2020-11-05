@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Fahad Ashiq</h1>
-<h3 align="center"> Software Engineer from Lahore, Pakistan</h3>
+<h3 align="center"> A Junior Software Engineer from Lahore, Pakistan</h3>
 
 # Who am I? 😄
 <p>
   <list>
 <ul> 🌱 I have recently done Bachelor’s degree in Computer Sciences from the Government College University, Lahore (GCU). </ul>
-<ul> ⚡️ A Web Developer with a good grip on basic front-end development technologies including HTML5, CSS3, Bootstrap and JavaScript along with grip on backend framework .NET , MS-SQL, and OOP Concepts. </ul>
+<ul> ⚡️ A Web Developer with a good grip on basic front-end development technologies including HTML5, CSS3, Bootstrap, Tailwind and JavaScript along with grip on backend framework .NET , MS-SQL, and OOP Concepts. </ul>
 <ul> 🚀 Technology Enthusiastic. </ul>
     </list>
 </p>
