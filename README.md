@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Fahad Ashiq</h1>
-<h3 align="center">A passionate Software Engineer from Lahore, Pakistan</h3>
+<h3 align="center"> Software Engineer from Lahore, Pakistan</h3>
 
 # Who am I? 😄
 <p>
   <list>
 <ul> 🌱 I have recently done Bachelor’s degree in Computer Sciences from the Government College University, Lahore (GCU). </ul>
-<ul> ⚡️ A Web Developer with a good grip on basic front-end development technologies including HTML5, CSS3, Bootstrap and JavaScript along with grip on backend framework .NET , MySQL, and OOP Concepts. </ul>
+<ul> ⚡️ A Web Developer with a good grip on basic front-end development technologies including HTML5, CSS3, Bootstrap and JavaScript along with grip on backend framework .NET , MS-SQL, and OOP Concepts. </ul>
 <ul> 🚀 Technology Enthusiastic. </ul>
     </list>
 </p>
@@ -29,8 +29,9 @@ Here are some ideas to get you started:
   <list>
     <ol> 🔭 I am Microsoft Learn Student Ambassador (2020 - 2021)</ol>
     <ol> ✨ I am working as a remote Intern at International Model United Nations </ol>
-    <ol> 👯 I am associated with Developer Student Clubs - Powered by Google as PR - Lead </ol>
+    <ol> 👯 I am associated with Developer Student Clubs GCU Lahore - Powered by Google as PR - Lead </ol>
     <ol> ⚡ Former Community Member of Community Leadership Circle of Facebook </ol>
+    <ol> 🚀 Remote Intern @International Model United Nation </ol>
   </list>
 </p>
 
