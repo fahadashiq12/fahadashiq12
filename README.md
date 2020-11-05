@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     </list>
 </p>
 
-# Some Acomplishments:
+# Some Acomplishments: 🚀
 <p>
   <list>
     <ol> 🔭 I am Microsoft Learn Student Ambassador (2020 - 2021)</ol>
