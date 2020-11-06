@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 <p>
   <list>
     <ol> 🔭 I am Microsoft Learn Student Ambassador (2020 - 2021)</ol>
-    <ol> ✨ I am working as a remote Intern at International Model United Nations </ol>
     <ol> 👯 I am associated with Developer Student Clubs GCU Lahore - Powered by Google as PR - Lead </ol>
     <ol> ⚡ Former Community Member of Community Leadership Circle of Facebook </ol>
     <ol> 🚀 Remote Intern @International Model United Nation </ol>
