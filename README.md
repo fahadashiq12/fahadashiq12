@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 # Who am I? 😄
 <p>
   <list>
-<ul> 🌱 I have recently done Bachelor’s degree in Computer Sciences from the Government College University, Lahore (GCU). </ul>
+<ul> ✨ A 22 Years Old Boy, who strives to learn & Grow. </ul>
+<ul> 🌱 I have recently done Bachelor’s degree in Computer Sciences from the Government College University, Lahore Batch (2016-2020). </ul>
 <ul> ⚡️ A Junior Software Engineer - Web Developer with a good grip on basic front-end development technologies including HTML5, CSS3, Bootstrap, Tailwind and JavaScript along with grip on backend framework .NET , MS-SQL, and OOP Concepts. </ul>
 <ul> 🚀 Technology Enthusiastic. </ul>
+    
     </list>
 </p>
 
