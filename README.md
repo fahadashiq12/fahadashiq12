@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Fahad Ashiq</h1>
-<h3 align="center"> A Junior Software Engineer from Lahore, Pakistan</h3>
+<h3 align="center"> A Junior Level SDE from Lahore, Pakistan</h3>
 
 # Who am I? 😄
 <p>
