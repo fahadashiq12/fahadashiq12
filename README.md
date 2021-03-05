@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <list>
 <ul> ✨ A 23 Years Old young tech enthusiastic, who strives to learn, develop & Grow. </ul>
 <ul> 🌱 I have done Bachelor’s degree in Computer Sciences from the Government College University, Lahore Batch (2016-2020). </ul>
-<ul> ⚡️ A Junior Software Engineer - Web Developer with a good grip on Research & Development and basic front-end development technologies including HTML5, CSS3, Vue.js, Bootstrap5, Tailwind and JavaScript along with grip on backend framework .NET , MS-SQL, and OOP Concepts. </ul>
+<ul> ⚡️ A Junior Software Engineer - Web Developer with a good grip on Research & Development and basic front-end development technologies including HTML5, CSS3, WebFlow, Vue.js, Bootstrap5, Tailwind and JavaScript along with grip on backend framework .NET , MS-SQL, and OOP Concepts. </ul>
 <ul> 🚀 Technology Enthusiastic. </ul>
 <ul> ☁️ Learning Azure DevOps. </ul>
 </list>
