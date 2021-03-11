@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <ul> 🚀 Technology Enthusiastic. </ul>
 <ul> 🚀 Working as a Junior Web Engineer </ul>
 <ul> ☁️ Learning Azure DevOps. </ul>
+<ul> 📫 How to reach me: fahadashiq30@gmail.com </ul>
 </list>
 </p>
 
