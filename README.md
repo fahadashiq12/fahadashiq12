@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
 
 <h1 align="center">Hi 👋, I'm Fahad Ashiq</h1>
@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <p>
   <list>
     <ol> 🌏 City Lead @Stacks Pakistan. </ol>
+    <ol> ⚡ Junior Web Engineer </ol>
     <ol> ✨ Brand Ambassador at NEST I/O for #021Disrupt2020. </ol>
     <ol> 🔭 I am Microsoft Learn Student Ambassador (2020 - 2021). </ol>
     <ol> 👯 I am associated with Developer Student Clubs GCU Lahore - Powered by Google as PR - Lead. </ol>
