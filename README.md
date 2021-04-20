@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     <ol> ⚡ Junior Web Engineer </ol>
     <ol> ✨ Brand Ambassador at NEST I/O for #021Disrupt2020. </ol>
     <ol> 🔭 I am Microsoft Learn Student Ambassador (2020 - 2021). </ol>
-    <ol> 👯 I am associated with Developer Student Clubs GCU Lahore - Powered by Google as PR - Lead. </ol>
+    <ol> 🔥 I am associated with Developer Student Clubs GCU Lahore - Powered by Google as PR - Lead. </ol>
     <ol> ⚡ Former Community Member of Community Leadership Circle of Facebook. </ol>
     <ol> 🚀 Remote Intern @International Model United Nation. </ol>
     <ol> 💬 I also love to write sometimes <a href="https://medium.com/@fahadashiq30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@fahadashiq30" height="30" width="40" /></a> </ol>
