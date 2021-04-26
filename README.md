@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 <ul> ⚡️ A Junior Software Engineer - Web Developer with a good grip on Research & Development and basic front-end development technologies including HTML5, CSS3, WebFlow, Vue.js, Bootstrap5, Tailwind and JavaScript along with grip on backend framework .NET , MS-SQL, and OOP Concepts. </ul>
 <ul> ☁️ I’m currently learning Azure DevOps </ul>
 <ul> 🎙️ I consider myself Technophile. </ul>
+<ul> ⚡ Junior Web Engineer </ul>
 <ul> 💬 Reach me out: fahadashiq30@gmail.com </ul>
 </list>
 </p>
@@ -31,7 +32,6 @@ Here are some ideas to get you started:
 <p>
   <list>
     <ol> 🌏 City Lead @Stacks Pakistan. </ol>
-    <ol> ⚡ Junior Web Engineer </ol>
     <ol> ✨ Brand Ambassador at NEST I/O for #021Disrupt2020. </ol>
     <ol> 🔭 I am Microsoft Learn Student Ambassador (2020 - 2021). </ol>
     <ol> 🔥 I am associated with Developer Student Clubs GCU Lahore - Powered by Google as PR - Lead. </ol>
