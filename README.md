@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <list>
 <ul> ✨ A young tech enthusiastic, who strives to learn, develop & Grow. </ul>
 <ul> 🌱 I have done Bachelor’s degree in Computer Sciences from the Government College University, Lahore Batch (2016-2020). </ul>
-<ul> ⚡️ A Junior Software Engineer - Web Developer with a good grip on Research & Development and basic front-end development technologies including HTML5, CSS3, WebFlow, Vue.js, Bootstrap5, Tailwind and JavaScript along with grip on backend framework .NET , MS-SQL, and OOP Concepts. </ul>
+<ul> 🚀 A Junior Software Engineer - Web Developer with a good grip on Research & Development and basic front-end development technologies including HTML5, CSS3, WebFlow, Vue.js, Bootstrap5, Tailwind and JavaScript along with grip on backend framework .NET , MS-SQL, and OOP Concepts. </ul>
 <ul> ☁️ I’m currently learning Azure DevOps </ul>
 <ul> 🎙️ I consider myself Technophile. </ul>
 <ul> ⚡ Junior Web Engineer </ul>
@@ -36,7 +36,6 @@ Here are some ideas to get you started:
     <ol> 🔭 I am Microsoft Learn Student Ambassador (2020 - 2021). </ol>
     <ol> 🔥 I am associated with Developer Student Clubs GCU Lahore - Powered by Google as PR - Lead. </ol>
     <ol> ⚡ Former Community Member of Community Leadership Circle of Facebook. </ol>
-    <ol> 🚀 Remote Intern @International Model United Nation. </ol>
     <ol> 💬 I also love to write sometimes <a href="https://medium.com/@fahadashiq30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@fahadashiq30" height="30" width="40" /></a> </ol>
   </list>
 </p>
