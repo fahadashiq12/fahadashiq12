@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <ul> 🚀 A Junior Software Engineer - Web Developer with a good grip on Research & Development and basic front-end development technologies including HTML5, CSS3, WebFlow, Vue.js, Bootstrap5, Tailwind and JavaScript along with grip on backend framework .NET , MS-SQL, and OOP Concepts. </ul>
 <ul> ☁️ I’m currently learning Azure DevOps </ul>
 <ul> 🎙️ I consider myself Technophile. </ul>
-<ul> ⚡ Junior Web Engineer </ul>
+<ul> ⚡ Junior Software Engineer </ul>
 <ul> 💬 Reach me out: fahadashiq30@gmail.com </ul>
 </list>
 </p>
