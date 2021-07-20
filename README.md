@@ -37,7 +37,7 @@ Here are some ideas to get you started:
     <ol> 🔭 I am Microsoft Learn Student Ambassador (2020 - 2021). </ol>
     <ol> 🔥 Former Public Relation LEAD @Developer Student Clubs GCU Lahore - Powered by Google. </ol>
     <ol> ⚡ Former Community Member of Community Leadership Circle of Facebook. </ol>
-    <ol> 💬 I also love to write sometimes <a href="https://medium.com/@fahadashiq30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@fahadashiq30" height="30" width="40" /></a> </ol>
+    <ol> 💬 I also love to write sometimes on <a href="https://medium.com/@fahadashiq30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@fahadashiq30" height="30" width="40" /></a> </ol>
   </list>
 </p>
 
