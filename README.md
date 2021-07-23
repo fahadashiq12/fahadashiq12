@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <ul> 🚀 A Software Devlopment Engineer - Web Developer with a good grip on research & development proficient in front-end development technologies and backend including HTML5, Vue.js,CSS3, WebFlow, Wordprress, Bootstrap5, Tailwind and JavaScript along with grip on backend framework .NET , MS-SQL & OOAD Design </ul>
 <ul> 🔭 I’m currently working as a Software Engineer @Enghouse Interactive </ul>
 <ul> ☁️ I’m currently learning and practicing Azure Cloud & DevOps. </ul>
-<ul> 📩 Reach me out: fahadashiq30@gmail.com </ul>
+<ul> 📩 You can reach me out: fahadashiq30@gmail.com </ul>
 </list>
 </p>
 
