@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <list>
     <ol> 🌏 City Lead @Stacks Pakistan. </ol>
     <ol> ✨ Former Brand Ambassador at NEST I/O for #021Disrupt2020. </ol>
-    <ol> 🔭 I am Microsoft Learn Student Ambassador (2020 - 2021). </ol>
+    <ol> 🔭 I am GOLD Microsoft Learn Student Ambassador (2020 - 2021). </ol>
     <ol> 🔥 Former Public Relation LEAD @Developer Student Clubs GCU Lahore - Powered by Google. </ol>
     <ol> ⚡ Former Community Member of Community Leadership Circle of Facebook. </ol>
     <ol> 💬 I also love to write sometimes on <a href="https://medium.com/@fahadashiq30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@fahadashiq30" height="30" width="40" /></a> </ol>
