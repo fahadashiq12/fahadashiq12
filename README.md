@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   <list>
     <ol> 🌏 City & SDG Lead @Stacks Pakistan. </ol>
     <ol> ✨ Former Brand Ambassador at NEST I/O for #021Disrupt2020. </ol>
+    <ol> ✨ Former Member of HultPrize and Tedx GCU Lahore. </ol>
     <ol> 🔭 I am GOLD Microsoft Learn Student Ambassador (2020 - 2021). </ol>
     <ol> 🔥 Former Public Relation LEAD @Developer Student Clubs GCU Lahore - Powered by Google. </ol>
     <ol> ⚡ Former Community Member of Community Leadership Circle of Facebook. </ol>
