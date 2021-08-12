@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     <ol> ✨ Former Member of HultPrize and Tedx GCU Lahore. </ol>
     <ol> 🔭 I am GOLD Microsoft Learn Student Ambassador from Lahore, Pakistan. (2020 - 2021). </ol>
     <ol> 🔥 Former Public Relation LEAD @Developer Student Clubs GCU Lahore - Powered by Google. </ol>
-    <ol> ⚡ Former Community Member of Community Leadership Circle of Facebook. </ol>
+    <ol> ⚡ Former Community Member of Community Leadership Circle from @Facebook. </ol>
     <ol> 💬 I also writes about Tech <a href="https://medium.com/@fahadashiq30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@fahadashiq30" height="30" width="40" /></a> </ol>
   </list>
 </p>
