@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -  Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I am Fahad Ashiq</h1>
+<h1 align="center">Hi 👋, I am Fahad Bin Ashiq</h1>
 <h3 align="center">Software Development Engineer from Lahore, Pakistan</h3>
 
 # Who am I? 😄
@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 # Some Acomplishments: 🚀
 <p>
   <list>
+    <ol> ☁️ Azure Developer Associate Certified (AZ-204) </ol> 
     <ol> 🌏 City & SDG Lead @Stacks Pakistan. </ol>
     <ol> ✨ Former Brand Ambassador at NEST I/O for #021Disrupt2020. </ol>
     <ol> ✨ Former Member of HultPrize and Tedx GCU Lahore. </ol>
