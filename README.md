@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <ul> 🔭 I am currently working as Software Engineer @Enghouse Interactive in R&D Department. </ul>
 <ul> ☁️ I am currently practicing Azure Cloud & DevOps. </ul>
 <ul> 📩 You can reach out me: fahadashiq30@gmail.com </ul>
+<ul> 🌱 My mobile friendly portfolio stories are: https://www.fahadashiqdev.com/ </ul>
 </list>
 </p>
 
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
     <ol> ☁️ Azure Developer Associate Certified (AZ-204) </ol> 
     <ol> 🌏 City & SDG Lead @Stacks Pakistan. </ol>
     <ol> ✨ Former Brand Ambassador at NEST I/O for #021Disrupt2020. </ol>
-    <ol> ✨ Former Member of HultPrize and Tedx GCU Lahore. </ol>
+    <ol> 🎙️ Former Member of HultPrize and Tedx GCU Lahore. </ol>
     <ol> 🔭 I am GOLD Microsoft Learn Student Ambassador from Lahore, Pakistan. (2020 - 2021). </ol>
     <ol> 🔥 Former Public Relation LEAD @Developer Student Clubs GCU Lahore - Powered by Google. </ol>
     <ol> ⚡ Former Community Member of Community Leadership Circle from @Facebook. </ol>
