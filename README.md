@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <ul> ⚡ I have Participated in Y combinator Summer School Program 2021. </ul>
 <ul> 🔭 I am currently working as Software Engineer @Enghouse Interactive in R&D Department. </ul>
 <ul> ☁️ I am currently practicing Azure Cloud & DevOps. </ul>
-<ul> 📩 You can reach out me: fahadashiq30@gmail.com </ul>
+<ul> 📩 You can reach out to me: fahadashiq30@gmail.com </ul>
 <ul> 🌱 My mobile friendly portfolio stories are: https://www.fahadashiqdev.com/ </ul>
 </list>
 </p>
