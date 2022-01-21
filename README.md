@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <ul> ☁️ I am currently practicing Azure Cloud & DevOps. </ul>
 <ul> 📩 You can reach out to me: fahadashiq30@gmail.com </ul>
 <ul> 🌱 My web portfolio is: https://www.fahadashiqdev.com/ </ul>
+<ul> ⚡ My mobile friendly stories are: https://stories.fahadashiqdev.com/ </ul>
 </list>
 </p>
 
