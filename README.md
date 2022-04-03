@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <list>
 <ul> 😄 I am young tech enthusiastic, who strives to learn, develop & Grow. </ul>
 <ul> ✏️ I have done my Bachelor’s degree in Computer Sciences from the Government College University, Lahore Batch (2016-2020) </ul>
-<ul> 🚀 A Software Development Engineer - Web Developer with a good grip on research & development proficient in front-end and backend development technologies including HTML5, Vue.js, React.js, CSS3, WebFlow, Wordprress, Bootstrap5, Nodejs Windows & Desktop Applications, JavaScript along with grip on backend framework .NET 6.0, Worker Services, MS-SQL & OOAD Design. </ul>
+<ul> 🚀 A Software Development Engineer - Web Developer with a good grip on research & development proficient in front-end and backend development technologies including HTML5, Vue.js, React.js, CSS3, WebFlow, Wordprress, Bootstrap5, React.js Windows & Desktop Applications, JavaScript along with grip on backend framework .NET 6.0, Worker Services, MS-SQL & OOAD Design. </ul>
 <ul> ⚡ I have Participated in Y combinator Summer School Program 2021. </ul>
 <ul> 🔭 I am currently working as Software Engineer @Enghouse Interactive in R&D Department. </ul>
 <ul> ☁️ I am currently practicing Azure Cloud & DevOps. </ul>
