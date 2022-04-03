@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <ul> 🚀 A Software Development Engineer - Web Developer with a good grip on research & development proficient in front-end and backend development technologies including HTML5, Vue.js, React.js, CSS3, WebFlow, Wordprress, Bootstrap5, React.js Windows & Desktop Applications, JavaScript along with grip on backend framework .NET 6.0, Worker Services, MS-SQL & OOAD Design. </ul>
 <ul> ⚡ I have Participated in Y combinator Summer School Program 2021. </ul>
 <ul> 🔭 I am currently working as Software Engineer @Enghouse Interactive in R&D Department. </ul>
-<ul> ☁️ I am currently practicing Azure Cloud & DevOps. </ul>
+<ul> ☁️ I am currently learning & practicing Web Architecture, Azure Cloud and DevOps. </ul>
 <ul> 📩 You can reach out to me: fahadashiq30@gmail.com </ul>
 <ul> 💻 My web portfolio is: https://www.fahadashiqdev.com/ </ul>
 <ul> ⚡ My mobile friendly stories are: https://stories.fahadashiqdev.com/ </ul>
