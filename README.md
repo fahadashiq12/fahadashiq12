@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/iamfahadashiq" target="blank"><img src="https://img.shields.io/twitter/follow/iamfahadashiq?logo=twitter&style=for-the-badge" alt="iamfahadashiq" /></a> </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">GitHub Profile Statistics:</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahadashiq12&show_icons=true&locale=en" alt="fahadashiq12" /></p>
 
