@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 # Some Acomplishments: 🚀
 <p>
   <list>
-    <ol> ☁️ Azure Developer Associate Certified (AZ-204 & AZ-900) </ol> 
+    <ol> ☁️ Azure Developer Associate Certified (AZ-204, AZ-900 & AI-900) </ol> 
     <ol> 🌏 Ex City & SDG Lead @Stacks Pakistan. </ol>
     <ol> ✨ Former Brand Ambassador at NEST I/O for #021Disrupt2020. </ol>
     <ol> 🎙️ Former Member of HultPrize and Tedx GCU Lahore. </ol>
