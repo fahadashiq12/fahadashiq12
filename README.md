@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <ul> 💻 My web portfolio is: https://www.fahadashiqdev.com/ </ul>
 <ul> ⚡ My mobile friendly stories are: https://stories.fahadashiqdev.com/ </ul>
 <ul> 🌱 Connect with me through my social profiles: https://linktr.ee/fahadashiq12 </ul>
-<ul> 💬 Read my journey published on Microsoft MLSA Blog site: https://bit.ly/MLSA-Journey </ul>
+<ul> 💬 Read my journey published on Microsoft Blog site: https://bit.ly/MLSA-Journey </ul>
 </list>
 </p>
 
