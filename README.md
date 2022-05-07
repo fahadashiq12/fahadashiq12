@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <ul> 😄 I am young tech enthusiastic, who strives to learn, develop & Grow. </ul>
 <ul> ✏️ I have done my Bachelor’s degree in Computer Sciences from the Government College University, Lahore Batch (2016-2020) </ul>
 <ul> 🚀 A Software Development Engineer - Web Developer with a good grip on research & development proficient in front-end and backend development technologies including HTML5, React.js, CSS3, Webflow, Bootstrap5, Material UI Windows & Desktop Applications, JavaScript along with grip on backend framework .NET 6.0, Worker Services, MS-SQL & OOAD Design. </ul>
-<ul> ⚡ I am currently working as Software Engineer @Enghouse Interactive in R&D Department. </ul>
+<ul> ⚡ I am currently working as Software Engineer @ Enghouse Interactive in R&D Department. </ul>
 <ul> 💎 I am interested in learning NFT, BlockChain & Web 3.0. </ul>
 <ul> 📩 You can reach out to me: fahadashiq30@gmail.com </ul>
 <ul> 💻 My web portfolio is: https://www.fahadashiqdev.com/ </ul>
@@ -39,10 +39,10 @@ Here are some ideas to get you started:
   <list>
     <ol> ☁️ Azure Developer Associate Certified ( AZ-204, AZ-900 & AI-900 ) </ol> 
     <ol> 🌏 Ex City & SDG Lead @Stacks Pakistan. </ol>
-    <ol> ✨ Former Brand Ambassador at NEST I/O for #021Disrupt2020. </ol>
+    <ol> ✨ Former Brand Ambassador @ NEST I/O for #021Disrupt2020. </ol>
     <ol> 🎙️ Former Member of HultPrize and Tedx GCU Lahore. </ol>
     <ol> 🔭 I am MCT for year 2021-2022 and GOLD Microsoft Learn Student Ambassador 2020-2021 from Lahore, Pakistan. (2020 - 2021) </ol>
-    <ol> 🔥 Ex - Public Relation LEAD @Developer Student Clubs GCU Lahore - Powered by @ Google. </ol>
+    <ol> 🔥 Ex - Public Relation LEAD @ Developer Student Clubs GCU Lahore - Powered by @ Google. </ol>
     <ol> 🙌🏻 I was Former Community Member of Community Leadership Circle from Lahore @ Facebook. </ol>
     <ol> 💬 I also write about Tech  @ <a href="https://medium.com/@fahadashiq30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@fahadashiq30" height="30" width="40" /></a> </ol>
   </list>
