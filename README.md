@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <p>
   <list>
     <ol> ☁️ Azure Developer Associate Certified ( AZ-204, AZ-900 & AI-900 ) </ol> 
-    <ol> 🌏 Ex City & SDG Lead @Stacks Pakistan. </ol>
+    <ol> 🌏 Ex City & SDG Lead @ Stacks Pakistan. </ol>
     <ol> ✨ Former Brand Ambassador @ NEST I/O for #021Disrupt2020. </ol>
     <ol> 🎙️ Former Member of HultPrize and Tedx GCU Lahore. </ol>
     <ol> 🔭 I am MCT for year 2021-2022 and GOLD Microsoft Learn Student Ambassador 2020-2021 from Lahore, Pakistan. (2020 - 2021) </ol>
