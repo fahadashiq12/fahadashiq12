@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/iamfahadashiq" target="blank"><img src="https://img.shields.io/twitter/follow/iamfahadashiq?logo=twitter&style=for-the-badge" alt="iamfahadashiq" /></a> </p>
 
-### :writing_hand: I write techical blogs @ <a href="https://dev.to/fahadashiq12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@fahadashiq30" height="40" width="40" /></a> 
+### :writing_hand: I write techical blogs @ <a href="https://dev.to/fahadashiq12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@fahadashiq30" height="50" width="40" /></a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
