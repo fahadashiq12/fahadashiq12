@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">GitHub Profile Statistics:</h3>
 
-<p>&nbsp;[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-fahadashiq12&theme=dark&background=000000)](https://git.io/streak-stats) /></p>
+<p>&nbsp; https://github-readme-streak-stats.herokuapp.com/?user=your-fahadashiq12 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
