@@ -52,10 +52,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/iamfahadashiq" target="blank"><img src="https://img.shields.io/twitter/follow/iamfahadashiq?logo=twitter&style=for-the-badge" alt="iamfahadashiq" /></a> </p>
 
-
-<h3 align="left">GitHub Profile Statistics:</h3>
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
-
 ### :writing_hand: Blog Posts 
 
 <h3 align="left">Connect with me:</h3>
