@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">GitHub Profile Statistics:</h3>
-### https://github-readme-streak-stats.herokuapp.com/?user=your-github-username 
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
 
 ### :writing_hand: Blog Posts 
 
