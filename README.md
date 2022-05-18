@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="left">GitHub Profile Statistics:</h3>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadashiq12&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :writing_hand: Blog Posts 
 
