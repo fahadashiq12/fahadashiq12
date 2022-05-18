@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/iamfahadashiq" target="blank"><img src="https://img.shields.io/twitter/follow/iamfahadashiq?logo=twitter&style=for-the-badge" alt="iamfahadashiq" /></a> </p>
 
 ### :writing_hand: Blog Posts 
+<a href="https://fahadashiq30.medium.com/my-last-5-year-struggle-side-hustle-and-community-contributions-8959c397d448">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
