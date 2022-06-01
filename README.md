@@ -26,12 +26,12 @@ Here are some ideas to get you started:
 <ul> 🚀 A Software Development Engineer - Web Developer with a good grip on research & development proficient in front-end and backend development technologies including HTML5, React.js, CSS3, Webflow, Bootstrap5, Material UI Windows & Desktop Applications, JavaScript along with grip on backend framework .NET 6.0, Worker Services, MS-SQL & OOAD Design. </ul>
 <ul> 👨‍💻 I am currently working as Software Engineer @ Enghouse Interactive in R&D Department. </ul>
 <ul> 🔥 I am selected as a Fellow in Forward Program 2022 @ McKinsey & Company. </ul>
+<ul> 💎 I am interested in learning NFT, BlockChain & Web 3.0. </ul>
 <ul> 📩 You can reach out to me: fahadashiq30@gmail.com </ul>
 <ul> 💻 My web portfolio is: https://www.fahadashiqdev.com/ </ul>
 <ul> ⚡ My mobile friendly stories are: https://stories.fahadashiqdev.com/ </ul>
 <ul> 🌱 Connect with me through my social profiles: https://linktr.ee/fahadashiq12 </ul>
 <ul> 💬 Read my journey published on Microsoft Blog site: https://bit.ly/MLSA-Journey </ul>
-<ul> 💎 I am interested in learning NFT, BlockChain & Web 3.0. </ul>
 </list>
 </p>
 
