@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -  Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I am Fahad Bin Ashiq :octocat: </h1>
+<h1 align="center">Hi 👋, I am Fahad Ashiq :octocat: </h1>
 <h3 align="center"> Software Development Engineer (SDE) from Lahore, Pakistan </h3>
 
 # Who am I? 👨‍💻
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <ul> ✏️ I have done my Bachelor’s degree in Computer Sciences from the Government College University (GCU), Lahore Batch (2016-2020) </ul>
 <ul> 🚀 A Software Development Engineer - Web Developer with a good grip on research & development proficient in front-end and backend development technologies including HTML5, React.js, CSS3, Webflow, Bootstrap5, Material UI Windows & Desktop Applications, JavaScript along with grip on backend framework .NET 6.0, Worker Services, MS-SQL & OOAD Design. </ul>
 <ul> 👨‍💻 I am currently working as Software Engineer @ Enghouse Interactive in R&D Department. </ul>
-<ul> 🔥 I am selected as a Fellow in Forward Program 2022 @ McKinsey & Company. </ul>
+<ul> 🔥 I am Fellow in Forward Program 2022 @ McKinsey & Company. </ul>
 <ul> 💎 I am interested in learning NFT, BlockChain & Web 3.0. </ul>
 <ul> 📩 You can reach out to me: fahadashiq30@gmail.com </ul>
 <ul> 💻 My web portfolio is: https://www.fahadashiqdev.com/ </ul>
