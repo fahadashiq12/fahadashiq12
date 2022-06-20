@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I am Fahad B. Ashiq :octocat: </h1>
-<h3 align="center"> Software Development Engineer (SDE) from Lahore, Pakistan </h3>
+<h3 align="center"> Software Development Engineer (SDE) @ Enghouse from Lahore, Pakistan </h3>
 
 # Who am I? 👨‍💻
 <p>
