@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I am Fahad B. Ashiq :octocat: </h1>
-<h3 align="center"> Software Development Engineer (SDE) @ Enghouse from Lahore, Pakistan </h3>
+<h3 align="center"> Software Development Engineer (SDE) @ Calrom from Lahore, Pakistan </h3>
 
 # Who am I? 👨‍💻
 <p>
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <ul> 😄 I am young tech enthusiastic, who strives to learn, develop & Grow. </ul>
 <ul> ✏️ I have done my Bachelor’s degree in Computer Sciences from the Government College University (GCU), Lahore (2016-2020) </ul>
 <ul> 🚀 A Software Development Engineer (SDE) - Web Developer with a good grip on research & development proficient in front-end and backend development technologies including HTML5, React.js, CSS3, Webflow, Bootstrap5, Material UI Windows & Desktop Applications, JavaScript, TypeScript along with grip on backend framework .NET 6.0, Worker Services, MS-SQL & OOAD Design. </ul>
-<ul> 👨‍💻 I am currently working as Software Engineer @ Enghouse in R&D Department. </ul>
+<ul> 👨‍💻 I am currently working as Software Engineer @ Calrom </ul>
 <ul> 🔥 I am part of Fellowship Forward Program 2022 @ McKinsey & Company. </ul>
 <ul> ☁️ I am interested in learning Microservices & MicroFrontends & Microsoft Azure Cloud. </ul>
 <ul> 📩 You can reach out to me: fahadashiq30@gmail.com </ul>
