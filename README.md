@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://codepen.io/fahadashiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="fahadashiq" height="30" width="40" /></a>
 <a href="https://twitter.com/iamfahadashiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamfahadashiq" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fahad-ashiq-303/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fahad-ashiq-303/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fahadashiqdev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fahad-ashiq-303/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackexchange.com/users/12114647/fahad-ashiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackexchange.com/users/12114647/fahad-ashiq" height="30" width="40" /></a>
 <a href="https://fb.com/fahadashiq30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fahadashiq30" height="30" width="40" /></a>
 <a href="https://instagram.com/iamfahadashiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamfahadashiq" height="30" width="40" /></a>
