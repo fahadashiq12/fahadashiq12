@@ -62,7 +62,6 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/10131359/fahad-ashiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackexchange.com/users/12114647/fahad-ashiq" height="30" width="40" /></a>
 <a href="https://fb.com/fahadashiq30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fahadashiq30" height="30" width="40" /></a>
 <a href="https://instagram.com/iamfahadashiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamfahadashiq" height="30" width="40" /></a>
-<a href="https://www.behance.net/fahadashiq57b7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="fahadashiq57b7" height="30" width="40" /></a>
 <a href="https://medium.com/@fahadashiq30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@fahadashiq30" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC4yLR4UKU7fOtlKQqkDEmEQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucy8xex2txdyiipoo8yatbeq/featured" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/fahadashiq30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="fahadashiq30" height="30" width="40" /></a>
