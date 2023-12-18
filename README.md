@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     <ol> ☁️ Azure Developer Associate Certified ( AZ-204, AZ-900 & AI-900 ) </ol> 
     <ol> 🌏 Ex City & Stack Developer Guild Lead @ Stacks Pakistan. </ol>
     <ol> 🎙️ Former Member of HultPrize and Tedx GCU Lahore. </ol>
-    <ol> 🔭 I am MCT for year 2022-2023 and GOLD Microsoft Learn Student Ambassador 2020-2021 from Lahore, Pakistan. </ol>
+    <ol> 🔭 I am MCT for year 2023-2024 and GOLD Microsoft Learn Student Ambassador 2020-2021 from Lahore, Pakistan. </ol>
     <ol> 🔥  Former Public Relation LEAD @ Developer Student Clubs GCU Lahore - Powered by @ Google. </ol>
     <ol> 🙌🏻 I was Community Member of CLC from Lahore @ Meta </ol>
     <ol> 💬 I also write about Tech  @ <a href="https://medium.com/@fahadashiq30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@fahadashiq30" height="30" width="40" /></a> </ol>
