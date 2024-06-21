@@ -9,13 +9,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 <ul> ⚡ Junior Software Engineer. </ul>
-<ul> 🎙️ I consider myself Technophile. </ul>
+<ul> 🎙️ I consider myself a Technophile. </ul>
 - 😄 Pronouns: ...
 <ul> ☁️ I am currently learning & practicing Web Architecture, Azure Cloud and DevOps. </ul>
 -  Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I am Fahad Bin Ashiq :octocat: </h1>
+<h1 align="center">Hi 👋, I am Fahad B. Ashiq :octocat: </h1>
 <h3 align="center"> Software Development Engineer SDE @ Calrom from Lahore, Pakistan </h3>
 
 # Who am I? 👨‍💻
