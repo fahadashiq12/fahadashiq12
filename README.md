@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     <ol> 🔭 I was MCT for year 2023-2024 and GOLD Microsoft Learn Student Ambassador 2020-2021 from Lahore, Pakistan. </ol>
     <ol> 🔥  Former Public Relation LEAD @ Developer Student Clubs GCU Lahore - Powered by @ Google. </ol>
     <ol> 🙌🏻 I was Community Member of CLC from Lahore @ Meta </ol>
-    <ol> 💬 I also write about Tech  @ <a href="https://medium.com/@fahadashiq30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@fahadashiq30" height="30" width="40" /></a> </ol>
+    <ol> 💬 I also write about Tech @ <a href="https://medium.com/@fahadashiq30" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@fahadashiq30" height="30" width="40" /></a> </ol>
   </list>
 </p>
 
