@@ -56,9 +56,7 @@ Here are some ideas to get you started:
 ### :writing_hand: I write techical blogs @ <a href="https://dev.to/fahadashiq12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@fahadashiq30" height="50" width="50" /></a> 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/fahadashiq" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" width="30" height="30"/></a> &nbsp;
-<a href="https://twitter.com/iamfahadashiq" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="30" height="30"/></a> &nbsp;
+<p align="left"><a href="https://codepen.io/fahadashiq" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" width="30" height="30"/></a> <a href="https://twitter.com/iamfahadashiq" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="30" height="30"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/fahadashiqdev/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width="30" height="30"/></a> &nbsp;
 <a href="https://stackoverflow.com/users/10131359/fahad-ashiq" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" width="30" height="30"/></a> &nbsp;
 <a href="https://fb.com/fahadashiq30" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" width="30" height="30"/></a> &nbsp;
